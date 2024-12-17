@@ -1,0 +1,10 @@
+{
+  "/page": "app/page.js",
+  "/api/auth/[...nextauth]/route": "app/api/auth/[...nextauth]/route.js",
+  "/api/tasks/route": "app/api/tasks/route.js",
+  "/api/weather/route": "app/api/weather/route.js",
+  "/dashboard/page": "app/dashboard/page.js",
+  "/api/quick-access/route": "app/api/quick-access/route.js",
+  "/favicon.ico/route": "app/favicon.ico/route.js",
+  "/api/user/badges/route": "app/api/user/badges/route.js"
+}
